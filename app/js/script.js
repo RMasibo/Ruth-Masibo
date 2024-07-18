@@ -12,6 +12,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
 
     console.log('Sending email with the following data:', formData);
     
-    alert('Your message has been submitted!');
+    alert('Please send your email message via ruthnyongesa466@gmail.com or reach via linkedIn');
     document.getElementById('contactForm').reset();
 });
